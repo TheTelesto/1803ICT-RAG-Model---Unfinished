@@ -1,0 +1,1154 @@
+[
+    {
+        "text": "Accessibility: Ensuring that the application system is usable by people with disabilities, adhering to standards like the Web Content Accessibility Guidelines (WCAG)."
+    },
+    {
+        "text": "Agile Software Development: An iterative and incremental approach to software development that emphasizes flexibility, customer collaboration, and rapid delivery of working software."
+    },
+    {
+        "text": "Analytical Hierarchy Process (AHP): A structured technique for organising and analysing complex decisions, based on mathematics and psychology."
+    },
+    {
+        "text": "Assumptions and Constraints: Statements or beliefs taken to be true without proof, and limitations or restrictions that affect the design and development of the application system."
+    },
+    {
+        "text": "Brainstorming Sessions: A group creativity technique designed to generate a large number of ideas for the project, including potential requirements and solutions."
+    },
+    {
+        "text": "Business Process Mapping: A visual representation of the processes and workflows within an organization, used to understand how data flows and identify inefficiencies."
+    },
+    {
+        "text": "Compliance Officers: Individuals responsible for ensuring that the organization and its systems comply with relevant laws, regulations, and standards."
+    },
+    {
+        "text": "Data Analysis: Examining data to draw conclusions about the information needs and requirements of the system."
+    },
+    {
+        "text": "Data Integrity: The accuracy and consistency of data stored in the application system, ensuring it is reliable and not corrupted."
+    },
+    {
+        "text": "Document Analysis: Reviewing existing documents to identify requirements, such as policies, procedures, and user manuals."
+    },
+    {
+        "text": "Elicitation Techniques: Methods used to gather requirements from stakeholders, including interviews, surveys, workshops, and ethnographic observation."
+    },
+    {
+        "text": "Ethnographic Observation: A qualitative research method involving observing users in their natural environment to understand their behaviors and needs."
+    },
+    {
+        "text": "Focus Groups: A form of qualitative research where a group of people are asked about their perceptions, opinions, and attitudes towards a product, service, concept, or idea."
+    },
+    {
+        "text": "Functional Requirements: Specific behaviours or functions that the system must perform, typically described in terms of inputs, processing, and outputs."
+    },
+    {
+        "text": "Glossary of Terms: A list of terms and definitions specific to the project, ensuring clarity and consistency in communication."
+    },
+    {
+        "text": "Interviews: Conversations with stakeholders to gather detailed information about their needs and requirements for the system."
+    },
+    {
+        "text": "Kano Model: A method for prioritising requirements based on customer satisfaction, categorizing them into must-be, one-dimensional, attractive, indifferent, and reverse quality."
+    },
+    {
+        "text": "Legal and Compliance Review: Ensuring that the requirements and design of the system comply with relevant laws and regulations."
+    },
+    {
+        "text": "MoSCoW Method: A requirements prioritisation technique that stands for Must have, Should have, Could have, and Won't have this time."
+    },
+    {
+        "text": "Non-Functional Requirements (NFRs): Constraints or qualities that the system must have, such as performance, security, reliability, usability, and maintainability."
+    },
+    {
+        "text": "Performance Metrics: Quantitative measures used to track and evaluate the performance of the application system."
+    },
+    {
+        "text": "Prototyping: Creating a preliminary model of the system or parts of the system to visualise and test certain aspects of the design."
+    },
+    {
+        "text": "Regulatory Compliance: Adherence to relevant laws, regulations, and standards that govern the application system's design and operation."
+    },
+    {
+        "text": "Requirements Analysis: The process of examining and refining the gathered requirements to ensure they are complete, consistent, and feasible."
+    },
+    {
+        "text": "Requirements Documentation: Formal documentation of the system's requirements, serving as a roadmap for the development team."
+    },
+    {
+        "text": "Requirements Elicitation: The process of discovering and documenting the requirements for a system, involving various techniques to uncover the needs and expectations of users."
+    },
+    {
+        "text": "Requirements Gathering: The process of collecting the requirements or conditions that a particular system or software application must satisfy."
+    },
+    {
+        "text": "Requirements Management: The ongoing process of managing changes to the requirements throughout the project lifecycle."
+    },
+    {
+        "text": "Requirements Specification: The formal documentation of the system's requirements, outlining what the system will do."
+    },
+    {
+        "text": "Requirements Validation: The process of ensuring that the requirements reflect the stakeholder's actual needs and expectations."
+    },
+    {
+        "text": "Risk Assessment: Identifying potential risks to the project, including those related to system failures or security breaches."
+    },
+    {
+        "text": "Scalability: The ability of the application system to handle varying loads and grow as needed without significant performance degradation."
+    },
+    {
+        "text": "Stakeholders: Individuals or groups who have an interest or stake in the system being developed, including end-users, customers, developers, and project managers."
+    },
+    {
+        "text": "Surveys: A method of gathering information from a large number of stakeholders through structured questions, often used to collect quantitative data."
+    },
+    {
+        "text": "System Architecture: The high-level structure of the application system, including its components and their interactions."
+    },
+    {
+        "text": "Traceability: The ability to link product requirements to their origin and track their evolution over time, ensuring each requirement can be traced back to its source."
+    },
+    {
+        "text": "User Experience (UX) Design: The process of enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction between the user and the product."
+    },
+    {
+        "text": "User Stories: A technique used in Agile software development to describe a requirement from the perspective of the end-user, typically following a simple template."
+    },
+    {
+        "text": "Use Cases: A description of a system's behaviour as it responds to a request that comes from outside of that system, defining the interactions between external actors and the system."
+    },
+    {
+        "text": "Workshops: Collaborative sessions with stakeholders to elicit and prioritize requirements, often involving various techniques to facilitate discussion and consensus."
+    },
+    {
+        "text": "Abstraction: The practice of simplifying complex systems by representing essential features without including the background details or explanations."
+    },
+    {
+        "text": "Access Controls: Security measures that determine who can access specific resources or data within a system."
+    },
+    {
+        "text": "Adaptive Learning Engine: A component within a Learning Management System (LMS) that personalizes the learning experience by adapting content to the learner's progress and preferences."
+    },
+    {
+        "text": "Application Layer: A layer within a layered architecture that contains the core business logic of an application, processing requests and managing data."
+    },
+    {
+        "text": "Application Programming Interfaces (APIs): Interfaces that enable different software components to interact with each other, often used in web and mobile applications."
+    },
+    {
+        "text": "Audit Trails: Records of actions performed within a system, used for security and compliance purposes."
+    },
+    {
+        "text": "Authentication: The process of verifying the identity of a user or device attempting to access a system."
+    },
+    {
+        "text": "Authorisation: The process of determining whether an authenticated user has the necessary permissions to perform a specific action within a system."
+    },
+    {
+        "text": "Back-end: The server side of an application, responsible for processing requests, performing business logic, and interacting with databases."
+    },
+    {
+        "text": "Batch Processing Applications: Applications designed to handle large volumes of data processing tasks, typically running at scheduled intervals."
+    },
+    {
+        "text": "Business Logic Layer: See Application Layer."
+    },
+    {
+        "text": "Caching: The process of storing frequently accessed data in a fast-access storage layer to improve system performance."
+    },
+    {
+        "text": "Circuit Breakers: Design patterns used to handle faults that might take a variable amount of time to recover from, by preventing the system from frequently attempting to execute actions that are likely to fail."
+    },
+    {
+        "text": "Client-Server Architecture: A distributed system model where clients request services from servers over a network."
+    },
+    {
+        "text": "Cloud-Native Applications: Applications designed to run on cloud computing platforms, leveraging cloud services and infrastructure."
+    },
+    {
+        "text": "Complex Event Processing (CEP): The analysis and correlation of multiple events to identify complex patterns or conditions."
+    },
+    {
+        "text": "Computerised Provider Order Entry (CPOE): A system that allows healthcare providers to enter medical orders electronically, reducing the risk of errors."
+    },
+    {
+        "text": "Containerisation: The practice of packaging software and its dependencies into containers, allowing it to run consistently across different computing environments."
+    },
+    {
+        "text": "Continuous Delivery and DevOps: Practices that allow for frequent and reliable updates to applications in production, enabling rapid iteration and response to customer feedback."
+    },
+    {
+        "text": "Continuous Integration and Delivery (CI/CD): The practice of automating the testing, integration, and deployment of software changes, facilitating faster and more reliable releases."
+    },
+    {
+        "text": "Cross-Platform Apps: Applications designed to work on multiple operating systems, often using cross-platform frameworks."
+    },
+    {
+        "text": "Data Access Layer: A layer within a layered architecture responsible for managing data storage and retrieval, providing an abstraction so that the business logic layer can use data without knowing the details of data storage."
+    },
+    {
+        "text": "Data Encryption: The process of encoding data to prevent unauthorized access or tampering."
+    },
+    {
+        "text": "Data Layer: The layer within a layered architecture that represents the actual database or data store where data is persisted."
+    },
+    {
+        "text": "Database Management System (DBMS): Software that manages databases, providing facilities for data storage, retrieval, and management."
+    },
+    {
+        "text": "Declarative Configuration: The practice of using declarative languages or files to define the desired state of a system, rather than the steps to achieve that state."
+    },
+    {
+        "text": "Desktop Applications: Software applications designed to run on personal computers or workstations, typically with a full graphical user interface (GUI)."
+    },
+    {
+        "text": "DevOps: A set of practices that combines software development (Dev) and information-technology operations (Ops) to shorten the systems development life cycle and provide continuous delivery with high software quality."
+    },
+    {
+        "text": "Distributed Systems: Systems that consist of multiple computers connected by a network, working together to provide a single coherent service."
+    },
+    {
+        "text": "Documentation: Written descriptions, specifications, and guides that explain how a system or application works, including its design, functionality, and usage."
+    },
+    {
+        "text": "Dynamic Orchestration: The automated management and coordination of containerized applications, ensuring they are deployed, scaled, and managed efficiently."
+    },
+    {
+        "text": "Electronic Document Management: The component within an Electronic Health Record (EHR) system that manages and stores various documents such as consent forms, clinical notes, and discharge summaries."
+    },
+    {
+        "text": "Electronic Health Record (EHR) System: A digital record of a patient's health information, including medical history, diagnoses, treatment plans, medications, and test results."
+    },
+    {
+        "text": "Embedded Systems: Specialised computing systems designed to perform dedicated functions within larger systems or machines."
+    },
+    {
+        "text": "Encryption: The process of converting data into a form that is unintelligible without the proper key, to protect it from unauthorized access."
+    },
+    {
+        "text": "Entity-Relationship Diagrams: Visual representations of data models, showing the relationships between different entities (data elements) within a system."
+    },
+    {
+        "text": "Event-Driven Architecture (EDA): A system design approach where components communicate by emitting and reacting to events."
+    },
+    {
+        "text": "Event Producers: Components within an EDA that emit events, capturing state changes or significant incidents."
+    },
+    {
+        "text": "Event Consumers: Components within an EDA that subscribe to events and take action when they receive them."
+    },
+    {
+        "text": "Event Channel: The medium through which events are transmitted from producers to consumers in an EDA."
+    },
+    {
+        "text": "Event Broker: An intermediary component in an EDA that manages the event channel, routing events to the appropriate consumers."
+    },
+    {
+        "text": "Fault Tolerance: The ability of a system to continue operating properly in the event of the failure of some of its components."
+    },
+    {
+        "text": "Firewalls: Network security devices that monitor and control incoming and outgoing network traffic based on predetermined security rules."
+    },
+    {
+        "text": "Front-end: The user interface of an application, typically running in a web browser or on a mobile device."
+    },
+    {
+        "text": "Graphical User Interface (GUI): A visual interface that allows users to interact with electronic devices through graphical icons and visual indicators."
+    },
+    {
+        "text": "Healthcare Domain: A sector focused on providing medical services, where information technology plays a crucial role in managing patient data and improving healthcare processes."
+    },
+    {
+        "text": "Hybrid Apps: Applications that combine elements of both native and web applications, often built using web technologies and then wrapped in a native container."
+    },
+    {
+        "text": "Immutable Infrastructure: The practice of treating infrastructure as immutable, where changes are made by replacing instances rather than updating them."
+    },
+    {
+        "text": "Infrastructure as Code (IaC): The practice of managing and provisioning infrastructure through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools."
+    },
+    {
+        "text": "Intrusion Detection Systems (IDS): Security systems that monitor network traffic for signs of malicious activity or policy violations."
+    },
+    {
+        "text": "Layered Architecture: A system design pattern that organizes an application into distinct layers, each with its own set of responsibilities and services."
+    },
+    {
+        "text": "Learning Management System (LMS): A software application for the administration, documentation, tracking, reporting, and delivery of educational courses or training programs."
+    },
+    {
+        "text": "Load Balancing: The process of distributing workloads across multiple computing resources to optimize resource use, minimize response time, and avoid overload."
+    },
+    {
+        "text": "Loose Coupling: A design principle where components of a system are interconnected in a way that changes in one component have a minimal impact on other components."
+    },
+    {
+        "text": "Maintainability: The ease with which a system can be modified, updated, or enhanced without causing undue complications."
+    },
+    {
+        "text": "Microservices Architecture: An approach to developing a single application as a suite of small, independent services, each running its own process and communicating through lightweight mechanisms."
+    },
+    {
+        "text": "Mobile Applications: Software applications designed to run on mobile devices such as smartphones and tablets."
+    },
+    {
+        "text": "Modularity: The concept of dividing a system into smaller, independent modules, each with a specific functionality, to simplify the overall complexity of the system."
+    },
+    {
+        "text": "Multi-layered Security System: A security approach that uses multiple layers of protection to defend against cyber threats, including firewalls, intrusion detection systems, and encryption."
+    },
+    {
+        "text": "Native Apps: Applications developed specifically for a given platform using the platform's official development tools and languages."
+    },
+    {
+        "text": "Network Dependency: The reliance of a system on network infrastructure for communication, which can be a bottleneck or vulnerability."
+    },
+    {
+        "text": "Operating System Integration: The degree to which an application is designed to work with specific operating systems, taking advantage of their features and libraries."
+    },
+    {
+        "text": "Performance: The efficiency and speed with which a system executes its tasks, often measured in terms of response time and throughput."
+    },
+    {
+        "text": "Presentation Layer: The layer within a layered architecture responsible for the user interface and user interaction, often corresponding to the front-end of an application."
+    },
+    {
+        "text": "Real-Time System: A system that must respond to inputs and execute tasks within strict time constraints, ensuring that the results are produced within a guaranteed time frame."
+    },
+    {
+        "text": "Reactive Systems: Systems that are designed to be responsive to changes and events, often using an event-driven architecture to handle dynamic inputs and outputs."
+    },
+    {
+        "text": "Real-time Operating Systems (RTOS): Specialized operating systems designed to manage resources efficiently and guarantee timely execution of tasks, often used in embedded systems."
+    },
+    {
+        "text": "Reliability: The ability of a system to perform its intended functions consistently and without failure, often achieved through redundancy and fault tolerance."
+    },
+    {
+        "text": "Resource Utilisation: The efficient use of available hardware and software resources by a system, including CPU, memory, disk I/O, and network bandwidth."
+    },
+    {
+        "text": "Resilience: The capacity of a system to recover quickly from difficulties or disruptions, often achieved through design patterns like circuit breakers and bulkheads."
+    },
+    {
+        "text": "Reusability: The ability of a system's components to be used again in different parts of the application or even in different applications, promoting a more efficient development process."
+    },
+    {
+        "text": "Robustness: The ability of a system to handle unexpected conditions and continue to operate effectively, often achieved through rigorous testing and the implementation of error-handling mechanisms."
+    },
+    {
+        "text": "Route Optimisation Engine: A component within a fleet management system that calculates the most efficient routes based on traffic conditions, road restrictions, and delivery schedules."
+    },
+    {
+        "text": "Scalability: The ability of a system to handle increased load or throughput by adding resources, allowing it to grow or shrink in response to demand."
+    },
+    {
+        "text": "Security: The practice of protecting a system against unauthorized access, data breaches, and other cyber threats, often involving encryption, authentication, and access controls."
+    },
+    {
+        "text": "Service-Oriented Architecture (SOA): An approach to designing and implementing services in a way that allows them to be composed and reused flexibly, emphasizing loose coupling and standard protocols."
+    },
+    {
+        "text": "Single Point of Failure: A part of a system that, if it fails, will stop the entire system from working, often addressed through redundancy and fault tolerance."
+    },
+    {
+        "text": "Single Sign-On (SSO): An authentication process that allows a user to log in with a single ID and password to access multiple applications, reducing the number of passwords a user needs to remember."
+    },
+    {
+        "text": "Single Responsibility Principle: A design principle that states that a class or module should only have one reason to change, or that it should have only one job, promoting modularity and maintainability."
+    },
+    {
+        "text": "Statelessness: The property of a system or component that does not store session data or context information, allowing for better scalability and resilience."
+    },
+    {
+        "text": "Storage Area Network (SAN): A high-speed network that provides shared access to block-level storage, often used in enterprise environments to manage large volumes of data."
+    },
+    {
+        "text": "Streaming Platforms: Systems that allow for the continuous transmission of data, such as video, audio, or real-time data feeds, often used in event-driven architectures."
+    },
+    {
+        "text": "System Architecture: The structural design of a system, which includes the components, their interactions, and the patterns and principles used to guide the design process."
+    },
+    {
+        "text": "Technology Heterogeneity: The use of different technologies, programming languages, and tools within different parts of a system, allowing for the best tools to be chosen for specific tasks."
+    },
+    {
+        "text": "Two-Factor Authentication (2FA): An authentication method that requires the user to provide two different types of credentials to verify their identity, often combining something they know (like a password) with something they have (like a mobile device)."
+    },
+    {
+        "text": "User Experience (UX): The overall experience a user has when interacting with a system, including the ease of use, accessibility, and satisfaction with the system's functionality and design."
+    },
+    {
+        "text": "User Interface (UI): The graphical or text-based interface through which a user interacts with a system, often emphasizing simplicity and intuitive design."
+    },
+    {
+        "text": "Version Control Systems: Tools that track changes to source code and other project assets, allowing for collaboration and recovery of previous versions if needed."
+    },
+    {
+        "text": "Virtualisation: The creation of a virtual version of a computing resource, such as a server, operating system, or storage device, allowing for efficient use of physical resources and improved scalability."
+    },
+    {
+        "text": "Web Applications: Software applications that run in a web browser or on a web server, accessible over the internet or a network."
+    },
+    {
+        "text": "Web Services: Applications or services that use standard web protocols and interfaces to exchange data over the internet, often used in service-oriented architectures."
+    },
+    {
+        "text": "Workflow Management: The automation of business processes and procedures, often involving the integration of different software systems and human interactions."
+    },
+    {
+        "text": "XML (eXtensible Markup Language): A markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable, often used for data exchange between different systems."
+    },
+    {
+        "text": "Zero Trust Architecture: A security model that assumes there is no implicit trust granted to assets or user accounts based solely on their physical or network location, requiring strict access controls and verification for every access request."
+    },
+    {
+        "text": "Accessibility: Ensuring that a product or service is usable by people with disabilities."
+    },
+    {
+        "text": "Affinity Diagramming: A technique used to organize and categorise ideas, observations, and data."
+    },
+    {
+        "text": "Analytics: The collection and analysis of data to understand user behaviour on digital platforms."
+    },
+    {
+        "text": "Breadcrumbs: Navigation aids that show users their current location within a website or application."
+    },
+    {
+        "text": "Card Sorting: A method used to understand how users group and label content categories."
+    },
+    {
+        "text": "Consistency: Maintaining a uniform appearance and behaviour in design elements to reinforce brand identity."
+    },
+    {
+        "text": "Data-Driven Design: Making design decisions based on quantitative and qualitative data from user research and testing."
+    },
+    {
+        "text": "Feedback Mechanisms: Methods used to gather user feedback on the product or service."
+    },
+    {
+        "text": "Heat Maps: Visual representations of user behaviour, showing where users click and interact on a webpage."
+    },
+    {
+        "text": "Hierarchy: Organising content in a way that guides users' attention and helps them understand the relative importance of different elements."
+    },
+    {
+        "text": "High-Fidelity Prototype: A detailed prototype that closely resembles the final product, often used for testing and validation."
+    },
+    {
+        "text": "Inclusivity: Designing products that are accessible and usable by as wide an audience as possible."
+    },
+    {
+        "text": "Information Architecture: The structure and organisation of content within a digital product or website."
+    },
+    {
+        "text": "Interaction Design: The design of the interactions between users and digital products, focusing on usability and responsiveness."
+    },
+    {
+        "text": "Iterative Design: A process of making design changes based on user feedback and testing, and then retesting to refine the design further."
+    },
+    {
+        "text": "Key Performance Indicators (KPIs): Metrics used to measure the success of a product or feature against specific goals."
+    },
+    {
+        "text": "Low-Fidelity Sketches: Simple, preliminary designs used to explore and iterate on ideas before creating more detailed prototypes."
+    },
+    {
+        "text": "Multimodal Content: Presenting information in multiple formats (e.g., text, audio, video) to accommodate different learning styles and preferences."
+    },
+    {
+        "text": "Navigation: The system within a digital product that allows users to move between different sections or pages."
+    },
+    {
+        "text": "Personas: Fictional characters created to represent different user types, based on research and user data."
+    },
+    {
+        "text": "Progressive Disclosure: A design technique that reveals information only when necessary, to avoid overwhelming users with too much information."
+    },
+    {
+        "text": "Prototyping Tools: Software used to create digital prototypes, such as Figma, Adobe XD, InVision, and Sketch."
+    },
+    {
+        "text": "Responsive Design: Designing interfaces that adapt to different screen sizes and input methods."
+    },
+    {
+        "text": "Search Engine Optimisation (SEO): Techniques used to improve the visibility of a website or webpage in search engine results."
+    },
+    {
+        "text": "Semantic HTML: Using HTML tags in a way that accurately describes the content and structure of a webpage."
+    },
+    {
+        "text": "Simplicity: A design principle that emphasises clean, uncluttered interfaces to reduce cognitive load."
+    },
+    {
+        "text": "Tree Testing: A method used to evaluate the findability of information within a proposed navigation hierarchy."
+    },
+    {
+        "text": "Typography: The art and technique of arranging text on a page, including the choice of typefaces, font sizes, and layout."
+    },
+    {
+        "text": "Usability Heuristics: A set of general principles for designing user interfaces that are easy to use and navigate."
+    },
+    {
+        "text": "Usability Testing: The process of testing a product or prototype with real users to evaluate its usability and identify areas for improvement."
+    },
+    {
+        "text": "User-Centered Design (UCD): An approach that places the needs, wants, and limitations of end-users at the forefront of the design process."
+    },
+    {
+        "text": "User Experience (UX): The overall experience a user has when interacting with a product or service, including ease of use, efficiency, and satisfaction."
+    },
+    {
+        "text": "User Flow: A visual representation of the steps a user takes to complete a task within a digital product."
+    },
+    {
+        "text": "User Journey Map: A diagram that outlines the different stages of a user's experience with a product or service."
+    },
+    {
+        "text": "User Research: The process of gathering data and insights about users to inform design decisions."
+    },
+    {
+        "text": "Visual Design: The aesthetic design of a product, including color, typography, imagery, and layout."
+    },
+    {
+        "text": "White Space: The empty space around design elements, used to create breathing room and improve readability."
+    },
+    {
+        "text": "Application Management Software: Tools used to track and manage hardware and software assets, including versions, licenses, and configurations."
+    },
+    {
+        "text": "Architectural Diagrams: Visual representations of the components of an ICT domain, their relationships, and data flow between them."
+    },
+    {
+        "text": "Asset Management Software: Tools used to track and manage hardware and software assets, including versions, licenses, and configurations."
+    },
+    {
+        "text": "Baseline Measurements: Initial performance measurements of a system under typical and peak workloads."
+    },
+    {
+        "text": "Business Impact Analysis (BIA): An analysis conducted to understand the critical functions of a business and the systems that support them."
+    },
+    {
+        "text": "Capacity Planning: The process of predicting future demands and ensuring the system can handle increased loads."
+    },
+    {
+        "text": "Change Management Records: Analysis of change management records to identify critical components."
+    },
+    {
+        "text": "Data Dictionaries and Schemas: Detailed descriptions of data elements and their relationships."
+    },
+    {
+        "text": "Data Governance Policies: Policies established to manage the ongoing integration between systems."
+    },
+    {
+        "text": "Data Models: Abstract models that organise data elements and standardize how they relate to one another."
+    },
+    {
+        "text": "Dependency Mapping: The process of mapping the dependencies between different systems and components."
+    },
+    {
+        "text": "Disaster Recovery and Business Continuity Planning: The process of identifying critical systems and components as part of recovery strategies."
+    },
+    {
+        "text": "Document-Oriented Model: A data model used in NoSQL databases, allowing for flexible data structure."
+    },
+    {
+        "text": "Exchange Formats: Specific ways in which data is structured for transmission between different systems or components."
+    },
+    {
+        "text": "FIX (Financial Information eXchange): A protocol used for electronic trading in the financial sector."
+    },
+    {
+        "text": "Gap Analysis: A process of identifying discrepancies between existing data models and those of a new system."
+    },
+    {
+        "text": "General Data Protection Regulation (GDPR): An EU regulation governing data protection and privacy."
+    },
+    {
+        "text": "Gramm-Leach-Bliley Act (GLBA): A U.S. regulation focusing on financial privacy and the protection of consumer data."
+    },
+    {
+        "text": "Health Insurance Portability and Accountability Act (HIPAA): A U.S. regulation mandating the protection of sensitive patient data."
+    },
+    {
+        "text": "HL7 (Health Level 7): A standard for the exchange, integration, sharing, and retrieval of electronic health information."
+    },
+    {
+        "text": "Incident History: A review of past incidents and outages to identify critical systems and components."
+    },
+    {
+        "text": "Integration Plan: A detailed plan outlining the steps to integrate a complex application system with existing infrastructure."
+    },
+    {
+        "text": "ISO/IEC 27001: An international standard for information security management systems."
+    },
+    {
+        "text": "JSON (JavaScript Object Notation): A lightweight data exchange format commonly used in web APIs."
+    },
+    {
+        "text": "Load Testing: Testing the system's behaviour under different levels of demand."
+    },
+    {
+        "text": "Mapping Strategy: A plan to bridge gaps in data models and formats."
+    },
+    {
+        "text": "Middleware: Software that facilitates the interaction between different systems or applications."
+    },
+    {
+        "text": "Performance Monitoring: Continuous monitoring of the performance of systems and infrastructure components."
+    },
+    {
+        "text": "Regulatory and Compliance Requirements: Identification of systems and applications critical for meeting regulatory and compliance requirements."
+    },
+    {
+        "text": "Relational Model: A common data model used in relational databases, organizing data into tables with rows and columns."
+    },
+    {
+        "text": "Risk Assessment: An evaluation of the potential impact of system failures or outages."
+    },
+    {
+        "text": "Scalability Testing: Assessing the system's ability to scale up or down based on demand."
+    },
+    {
+        "text": "Stakeholder Input: Insights gathered from stakeholders to understand the criticality of various systems and applications."
+    },
+    {
+        "text": "Transformation Specifications: Detailed documentation of data transformation requirements."
+    },
+    {
+        "text": "Unified Modelling Language (UML): A standardised modeling language used to visualize and document the design of software systems."
+    },
+    {
+        "text": "Use of Automated Tools: Utilisation of tools for discovery, dependency mapping, and criticality scoring."
+    },
+    {
+        "text": "Vendor and Supplier Analysis: An assessment of the criticality of systems and applications based on their reliance on external vendors and suppliers."
+    },
+    {
+        "text": "YAML (YAML Ain't Markup Language): A data serialisation format often used for configuration files."
+    },
+    {
+        "text": "XML (eXtensible Markup Language): A more verbose data exchange format supporting metadata and custom tags."
+    },
+    {
+        "text": "Regular Review and Update: The practice of regularly reviewing and updating the list of critical elements."
+    },
+    {
+        "text": "Access Control: Methods used to regulate who or what can view or use resources in a computing environment."
+    },
+    {
+        "text": "Algorithmic Efficiency: The performance of an algorithm in terms of the resources it consumes, typically measured as time complexity and space complexity."
+    },
+    {
+        "text": "Asynchronous Processing: A method of processing where tasks are executed without waiting for previous tasks to complete, allowing for concurrent operations."
+    },
+    {
+        "text": "Authentication: The process of verifying the identity of users or devices attempting to access a system."
+    },
+    {
+        "text": "Authorisation: The process of determining what actions an authenticated user or device is allowed to perform within a system."
+    },
+    {
+        "text": "Batching: Grouping multiple small messages or requests into a single larger transmission to reduce network overhead."
+    },
+    {
+        "text": "Big O Notation: A mathematical notation used to describe the time complexity of an algorithm, indicating how it scales with the size of the input."
+    },
+    {
+        "text": "Cache: A temporary storage area that holds data so that future requests for that data can be served faster."
+    },
+    {
+        "text": "Client-Server Architecture: A network architecture in which client systems request services from server systems over a network."
+    },
+    {
+        "text": "Cloud-Native Architecture: An approach to building applications that are designed to run on cloud computing platforms, leveraging cloud-specific technologies and practices."
+    },
+    {
+        "text": "Compliance: Adherence to laws, regulations, guidelines, specifications, or policies."
+    },
+    {
+        "text": "Compression: The process of reducing the size of data without losing information, to save storage space or transmission bandwidth."
+    },
+    {
+        "text": "Concurrency: The ability of different parts of a program to execute simultaneously, or at least appear to do so."
+    },
+    {
+        "text": "Data Encryption: The process of transforming data into a form that is unreadable to anyone except those with the proper authorisation to access it."
+    },
+    {
+        "text": "Denormalisation: A technique used to optimise database performance by combining data from multiple tables into a single table, potentially reducing the number of joins required."
+    },
+    {
+        "text": "Dynamic Programming: An algorithmic strategy for solving problems by breaking them down into simpler subproblems and storing the results to avoid redundant calculations."
+    },
+    {
+        "text": "Entity-Relationship Diagram (ERD): A diagram that illustrates how different entities in a database are related to each other."
+    },
+    {
+        "text": "Evidence-Based Optimisation: An approach to optimising systems based on empirical data and proven methodologies."
+    },
+    {
+        "text": "General Data Protection Regulation (GDPR): A European Union regulation that governs data protection and privacy for all individuals within the EU."
+    },
+    {
+        "text": "Health Insurance Portability and Accountability Act (HIPAA): A United States federal law that mandates the protection of sensitive patient health information."
+    },
+    {
+        "text": "Horizontal Scaling: A scaling strategy that involves adding more servers to a system to distribute the workload across multiple machines."
+    },
+    {
+        "text": "Input Validation: The process of checking user input to ensure it is in an acceptable format and meets certain criteria before it is processed by the system."
+    },
+    {
+        "text": "Latency: The time it takes for a packet of data to travel from one designated point to another."
+    },
+    {
+        "text": "Load Testing: A type of testing that determines a system's behaviour under anticipated peak loads to ensure it can handle the expected volume of requests."
+    },
+    {
+        "text": "Logging: The process of recording system events, transactions, and activities for auditing, compliance, and forensic analysis."
+    },
+    {
+        "text": "Memory Leak: A type of resource leak that occurs when a computer program incorrectly manages memory allocations, causing memory to be allocated and not released."
+    },
+    {
+        "text": "Microservices Architecture: An architectural style that structures an application as a collection of loosely coupled services, each running in its own process and communicating over lightweight protocols."
+    },
+    {
+        "text": "Monitoring: The process of overseeing system operations, user activities, and network traffic to detect anomalies or deviations from normal behaviour."
+    },
+    {
+        "text": "Multi-Factor Authentication (MFA): An authentication method that requires users to provide two or more verification factors to gain access to their accounts."
+    },
+    {
+        "text": "Network Protocols: Rules or conventions that define how data is transmitted over a network."
+    },
+    {
+        "text": "Optimisation: The process of making something as effective, perfect, or functional as possible."
+    },
+    {
+        "text": "Performance: The efficiency or effectiveness of a system in accomplishing a task, often measured in terms of speed, accuracy, or resource usage."
+    },
+    {
+        "text": "Privacy: The state or condition of being free from being observed or disturbed by other people."
+    },
+    {
+        "text": "Query Optimisation: The process of analysing and rewriting SQL queries to make them more efficient."
+    },
+    {
+        "text": "Resource Utilisation: The extent to which a resource, such as CPU, memory, or disk I/O, is used by a system or process."
+    },
+    {
+        "text": "Scalability: The ability of a system, network, or process to handle a growing amount of work, or its potential to be enlarged to accommodate that growth."
+    },
+    {
+        "text": "Security: The protection of assets from unauthorised access, use, disclosure, disruption, modification, or destruction."
+    },
+    {
+        "text": "Service-Oriented Architecture (SOA): A style of software design where services are provided to the other components by application components, through a communication protocol over a network."
+    },
+    {
+        "text": "Sharding: A database architecture design in which large databases are divided into smaller, more manageable parts called shards."
+    },
+    {
+        "text": "Stress Testing: A type of testing that determines the stability of a system or application under extreme conditions."
+    },
+    {
+        "text": "Throughput: The amount of data that can be transferred over a network in a given period."
+    },
+    {
+        "text": "Time Complexity: A measure of how much time an algorithm takes to complete based on the size of its input."
+    },
+    {
+        "text": "Vertical Scaling: A scaling strategy that involves increasing the capacity of existing servers by adding more resources such as CPU, memory, or storage."
+    },
+    {
+        "text": "Virtual Private Network (VPN): A private network that uses a public network (usually the internet) to connect remote sites or users together."
+    },
+    {
+        "text": "Web Application Firewall (WAF): A security layer for HTTP/HTTPS applications that monitors, filters, and blocks HTTP traffic to and from a web application."
+    },
+    {
+        "text": "Access Controls: Ensuring that only authorised users can access sensitive information within an application system."
+    },
+    {
+        "text": "Agile Methodologies: Flexible, iterative approaches to project management that adapt to changing requirements."
+    },
+    {
+        "text": "Analytical Tools: Software applications used to collect, process, and interpret data to provide insights."
+    },
+    {
+        "text": "Application Performance Management (APM) Tools: Monitor and manage the performance of software applications."
+    },
+    {
+        "text": "Architectural Review Boards: Groups that evaluate application system architecture against principles and guidelines."
+    },
+    {
+        "text": "Automated Testing: The use of software tools to run tests without human intervention."
+    },
+    {
+        "text": "Best Practices: Proven guidelines or methods for achieving effective outcomes."
+    },
+    {
+        "text": "Change Management: The process of managing changes to an application system."
+    },
+    {
+        "text": "Cloud-Based Infrastructure: Infrastructure services provided over the internet for dynamic resource allocation."
+    },
+    {
+        "text": "Code Refactoring: Restructuring existing code to improve maintainability, readability, and efficiency."
+    },
+    {
+        "text": "Code Reviews: Systematic examination of source code by colleagues to identify and fix mistakes."
+    },
+    {
+        "text": "Compliance: Ensuring adherence to regulations and standards."
+    },
+    {
+        "text": "Continuous Integration and Delivery (CI/CD): Automating the testing and deployment of software changes."
+    },
+    {
+        "text": "Cost-Benefit Analysis: Evaluating the potential benefits of maintenance and evolution activities against their costs."
+    },
+    {
+        "text": "Customer Relationship Management (CRM) Software: Tools for tracking and managing interactions with stakeholders."
+    },
+    {
+        "text": "Data Encryption: Protecting data through encoding to ensure only authorised users can access it."
+    },
+    {
+        "text": "DevOps: A set of practices that combines software development and IT operations to shorten the systems development life cycle."
+    },
+    {
+        "text": "Documentation: Maintaining up-to-date records of system architecture, processes, and changes."
+    },
+    {
+        "text": "Earned Value Management (EVM): A project management technique for measuring project performance and progress."
+    },
+    {
+        "text": "Encryption: The process of converting data into a form that can only be read by authorised users."
+    },
+    {
+        "text": "Enterprise Resource Planning (ERP) Systems: Software systems used to manage business processes and resources."
+    },
+    {
+        "text": "Feedback Loop: A mechanism for continuous feedback between users and the development team."
+    },
+    {
+        "text": "General Data Protection Regulation (GDPR): A European Union regulation on data protection and privacy."
+    },
+    {
+        "text": "Gantt Charts: Visual aids for project planning and tracking that show tasks and timelines."
+    },
+    {
+        "text": "Governance: The set of policies, roles, responsibilities, and processes that ensure the effective and efficient use of IT resources."
+    },
+    {
+        "text": "Impact Analysis: Assessing the potential consequences of not performing maintenance tasks."
+    },
+    {
+        "text": "Information Technology Infrastructure Library (ITIL): A set of best practices for IT service management."
+    },
+    {
+        "text": "Interoperability: The ability of different systems to work together and exchange information."
+    },
+    {
+        "text": "Iterative Development: Developing software in small, incremental steps, allowing for regular feedback and adjustments."
+    },
+    {
+        "text": "Kano Analysis: A technique for prioritising features based on their impact on user satisfaction."
+    },
+    {
+        "text": "Key Management Systems: Tools for securely managing encryption keys."
+    },
+    {
+        "text": "Knowledge Transfer: The process of sharing knowledge among team members to ensure continuity and expertise."
+    },
+    {
+        "text": "Load Balancing: Distributing workloads across multiple computing resources to optimise resource use and maintain system performance."
+    },
+    {
+        "text": "Load Testing: Simulating high traffic or data processing scenarios to test system performance."
+    },
+    {
+        "text": "Logging: Recording system activities for audit and analysis purposes."
+    },
+    {
+        "text": "Maintenance and Evolution: The ongoing process of keeping an application system up-to-date and adapting it to new requirements."
+    },
+    {
+        "text": "Mentoring Programs: Structured programs for knowledge transfer and skill development."
+    },
+    {
+        "text": "Methodologies: Systematic approaches to achieving project goals."
+    },
+    {
+        "text": "Microservices: An architectural style that structures an application as a collection of loosely coupled, independently deployable services."
+    },
+    {
+        "text": "MoSCoW Analysis: A technique for prioritising requirements based on their importance and feasibility."
+    },
+    {
+        "text": "Multi-Factor Authentication (MFA): Requiring multiple forms of authentication to access a system."
+    },
+    {
+        "text": "Organisational Silos: Departments or teams that work in isolation, leading to inefficiencies and miscommunication."
+    },
+    {
+        "text": "Performance Optimisation: Improving the efficiency and speed of an application system."
+    },
+    {
+        "text": "Predictive Analytics: Using data to predict future trends and outcomes."
+    },
+    {
+        "text": "Prioritisation: The process of determining the importance of various tasks or features."
+    },
+    {
+        "text": "Project Management: The application of processes, methods, skills, knowledge, and experience to achieve specific project goals."
+    },
+    {
+        "text": "Prototyping: Creating a preliminary model of a feature or system for testing and feedback."
+    },
+    {
+        "text": "Quality Assurance: Ensuring that products or services meet specified requirements and standards."
+    },
+    {
+        "text": "Regulatory Compliance: Adhering to laws and regulations governing data protection and privacy."
+    },
+    {
+        "text": "Resistance to Change: Stakeholders' reluctance to accept changes to an application system."
+    },
+    {
+        "text": "Risk Assessment: Evaluating the potential threats and their impact on an application system."
+    },
+    {
+        "text": "Role-Based Access Control (RBAC): Assigning permissions based on user roles to simplify access management."
+    },
+    {
+        "text": "Root Cause Analysis (RCA): Investigating the underlying causes of issues to develop effective solutions."
+    },
+    {
+        "text": "Scalability: The ability of an application system to handle increased loads and demands."
+    },
+    {
+        "text": "Security Audits: Evaluating the security posture of an application system."
+    },
+    {
+        "text": "Security Information and Event Management (SIEM): Tools for real-time analysis of security alerts and events."
+    },
+    {
+        "text": "Staging Environment: An isolated environment for testing updates before deployment."
+    },
+    {
+        "text": "Stakeholder Engagement: Involving and communicating with all relevant parties in the maintenance and evolution process."
+    },
+    {
+        "text": "Stress Testing: Testing an application system under extreme conditions to evaluate its stability and performance."
+    },
+    {
+        "text": "System Architecture: The structure and design of an application system."
+    },
+    {
+        "text": "Technology Stack: The set of technologies used to build an application system."
+    },
+    {
+        "text": "Testing Frameworks: Tools and methods for conducting various types of tests on an application system."
+    },
+    {
+        "text": "Training Programs: Programs designed to educate team members on new technologies, processes, and best practices."
+    },
+    {
+        "text": "Transparency: Open communication and visibility into the maintenance and evolution process."
+    },
+    {
+        "text": "Unified Modeling Language (UML): A set of diagrams for visualising system design."
+    },
+    {
+        "text": "User Acceptance Testing (UAT): Testing by end-users to ensure the system meets their requirements."
+    },
+    {
+        "text": "User Experience (UX) Design: Designing an application system to provide a positive user experience."
+    },
+    {
+        "text": "User Stories: Narratives that describe user requirements from the user's perspective."
+    },
+    {
+        "text": "Usability Testing: Evaluating the usability of an application system through user interactions."
+    },
+    {
+        "text": "Version Control Systems: Tools for managing changes to source code over time."
+    },
+    {
+        "text": "Virtual Private Networks (VPNs): Secure connections over the internet to access remote networks."
+    },
+    {
+        "text": "Vulnerability Assessments: Evaluating an application system for security weaknesses."
+    },
+    {
+        "text": "Workshops: Collaborative sessions for discussing and planning maintenance and evolution activities."
+    },
+    {
+        "text": "Accountability: The principle of being responsible for one's actions and decisions, especially as a duty to stakeholders."
+    },
+    {
+        "text": "Algorithmic Bias: The phenomenon where an algorithm produces results that are systematically prejudiced due to the data it was trained on or the way it was programmed."
+    },
+    {
+        "text": "Black-Box Models: Algorithms or systems whose internal workings and decision-making processes are not transparent or interpretable by humans."
+    },
+    {
+        "text": "Data Minimisation: The practice of collecting only the data necessary for a specific purpose and not retaining it longer than necessary."
+    },
+    {
+        "text": "Deontological Ethics: An ethical theory that focuses on duties and rules, emphasizing the importance of adhering to moral obligations."
+    },
+    {
+        "text": "Ethical AI Toolkit: A set of guidelines and principles developed by the Montreal Declaration to ensure the responsible development of artificial intelligence."
+    },
+    {
+        "text": "Explainability: The ability of a system to provide understandable explanations for its outputs, recommendations, or decisions."
+    },
+    {
+        "text": "Fairness: The principle that an application system should treat all users equitably and without discrimination."
+    },
+    {
+        "text": "Feedback Mechanisms: Processes or tools that allow users to provide input or reactions to a system's performance or decisions."
+    },
+    {
+        "text": "General Data Protection Regulation (GDPR): A comprehensive data protection regulation in the European Union, setting standards for privacy and data protection."
+    },
+    {
+        "text": "Intellectual Property (IP) Rights: Legal rights protecting creations of the mind, such as inventions, literary and artistic works, and symbols, names, and images used in commerce."
+    },
+    {
+        "text": "Interactive Elements: Features within an application that allow users to engage with the system in a dynamic way, such as exploring \"what-if\" scenarios."
+    },
+    {
+        "text": "Linear Models: Mathematical models in which the output is a linear combination of the input variables, making them relatively easy to interpret."
+    },
+    {
+        "text": "Privacy Impact Assessment (PIA): A process of evaluating the potential impacts on privacy of a new project or system."
+    },
+    {
+        "text": "Regulatory Frameworks: Legal standards and guidelines established by governing bodies to regulate the use of technology and protect user rights."
+    },
+    {
+        "text": "Responsible Innovation: An approach to innovation that considers the broader ethical, social, and environmental implications of new technologies."
+    },
+    {
+        "text": "Transparency: The principle of being open and honest about the capabilities, limitations, and decision-making processes of an application system."
+    },
+    {
+        "text": "Trustworthy AI: AI systems that are developed and deployed in a manner that respects ethical values and human rights."
+    },
+    {
+        "text": "Utilitarianism: An ethical theory that aims to maximize overall welfare and minimize harm, guiding decision-making towards the greatest good for the greatest number."
+    },
+    {
+        "text": "Virtue Ethics: An ethical theory that emphasizes the cultivation of virtues such as honesty, integrity, empathy, and responsibility."
+    },
+    {
+        "text": "Accessibility - Ensuring that emerging technologies, such as voice interfaces, AR, and VR, are usable by people with disabilities."
+    },
+    {
+        "text": "Agile Development - An iterative approach to software development that emphasizes flexibility, rapid prototyping, and continuous user feedback."
+    },
+    {
+        "text": "AI-Assisted Programming - The use of artificial intelligence to automate aspects of the coding process, such as code completion, bug fixing, and generating code snippets."
+    },
+    {
+        "text": "Algorithmic Bias - The potential for AI and ML systems to exhibit biases based on the data they were trained on, which can lead to unfair or discriminatory outcomes."
+    },
+    {
+        "text": "Augmented Reality (AR) - A technology that overlays digital content onto the physical world, providing an enhanced view or interaction with the environment."
+    },
+    {
+        "text": "Blockchain and Distributed Ledger Technologies (DLT) - Secure and transparent methods for recording transactions, with potential applications in supply chain management, healthcare, and finance."
+    },
+    {
+        "text": "Code Completion - A feature of AI-assisted programming that predicts and suggests code snippets to complete a programmer's input."
+    },
+    {
+        "text": "Cognitive Load - The amount of mental effort required to use a system or understand information."
+    },
+    {
+        "text": "Cross-Functional Teams - Teams composed of members with diverse expertise, including traditional developers and specialists in emerging technologies."
+    },
+    {
+        "text": "Data Minimisation - A privacy-by-design technique that involves collecting and processing only the data strictly necessary for a specific purpose."
+    },
+    {
+        "text": "Design Thinking - A problem-solving approach that includes empathizing with the user, defining the problem, ideating solutions, prototyping, and testing."
+    },
+    {
+        "text": "Emerging Technologies - New or developing technologies that have the potential to significantly impact various industries, including AI, ML, blockchain, IoT, edge computing, AR, VR, quantum computing, and quantum-resistant cryptography."
+    },
+    {
+        "text": "Ethical Frameworks - Principles and guidelines that guide the responsible use of emerging technologies, ensuring fairness, accountability, and preventing discrimination."
+    },
+    {
+        "text": "Ideation and Brainstorming - Techniques for generating new ideas, such as Design Thinking, SCAMPER, Mind Mapping, and Future Workshops."
+    },
+    {
+        "text": "Internet of Things (IoT) - The network of physical devices, vehicles, home appliances, and other items embedded with electronics, software, sensors, and connectivity."
+    },
+    {
+        "text": "Iterative Design and Prototyping - A process of designing, testing, and refining prototypes based on user feedback to improve the user experience."
+    },
+    {
+        "text": "Key Performance Indicators (KPIs) - Metrics used to measure the impact of emerging technologies on development and maintenance efficiency, quality, and time-to-market."
+    },
+    {
+        "text": "Legal and Regulatory Compliance - Ensuring that the implementation of emerging technologies adheres to relevant laws, regulations, and standards."
+    },
+    {
+        "text": "Machine Learning (ML) - A subset of artificial intelligence that allows systems to learn and improve from experience without being explicitly programmed."
+    },
+    {
+        "text": "Mentorship Programs - Initiatives that pair experienced developers with emerging technology specialists to facilitate knowledge transfer and skill development."
+    },
+    {
+        "text": "Natural Language Processing (NLP) - A branch of AI that enables computers to understand, interpret, and generate human language."
+    },
+    {
+        "text": "Privacy by Design - A principle that involves proactively considering privacy implications at every stage of product development."
+    },
+    {
+        "text": "Quantum Computing - A form of computing that uses quantum-mechanical phenomena, such as superposition and entanglement, to perform operations on data."
+    },
+    {
+        "text": "Quantum-Resistant Cryptography - Cryptographic methods that are secure against attacks from quantum computers."
+    },
+    {
+        "text": "Resource Utilisation - The efficient allocation and management of computational resources, often optimised through AI and ML."
+    },
+    {
+        "text": "Roadmap - A strategic plan that outlines the sequence of development, key milestones, and expected outcomes for integrating emerging technologies."
+    },
+    {
+        "text": "Security Audits and Penetration Testing - Procedures to assess the security of application systems and identify vulnerabilities."
+    },
+    {
+        "text": "Smart Contracts - Self-executing contracts with the terms of the agreement directly written into code, often used in blockchain technology."
+    },
+    {
+        "text": "Transparency - Ensuring that users are informed about how their data is being collected, used, and shared."
+    },
+    {
+        "text": "User-Centered Design - An approach to designing products that focuses on the needs, preferences, and limitations of the end-users."
+    },
+    {
+        "text": "User Experience (UX) - The overall experience a user has when interacting with a product or system, including usability, accessibility, and satisfaction."
+    },
+    {
+        "text": "User Research and Testing - Techniques for evaluating the impact of emerging technologies on user experience and engagement, such as online feedback tools, surveys, and real-time analytics."
+    },
+    {
+        "text": "Virtual Reality (VR) - A technology that creates a simulated environment, placing the user in a completely immersive experience."
+    },
+    {
+        "text": "Voice Recognition Systems - Technologies that enable computers to understand and respond to spoken voice commands."
+    },
+    {
+        "text": "Workshops and Training Programs - Initiatives aimed at upskilling and reskilling development teams in emerging technologies."
+    }
+]
