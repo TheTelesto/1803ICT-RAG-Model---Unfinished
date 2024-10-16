@@ -24,9 +24,9 @@ You will need the following libraries installed to use the project:
 - Flask
 - You can install them using the command:
 
-''' bash
-Copy code
-pip install faiss numpy requests transformers json langchain flask ''' 
+ ```bash
+   pip install faiss numpy requests transformers json langchain flask
+```
 ## Run the Model
 The primary script for running the model is RAGModelWorking. Once everything is set up, simply run this file to get started.
 
